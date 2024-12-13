@@ -1,0 +1,1 @@
+To solve the specificity issue, adjust the selectors to have the correct specificity weight. You might need to make the general selectors more specific by adding more attributes or parent elements to the selector or use the !important flag cautiously.
